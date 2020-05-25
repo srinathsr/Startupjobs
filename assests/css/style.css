@@ -274,7 +274,7 @@ margin-top:50px;
 .bfo{
 border:1px solid transparent;
 background-color: #000;
-width:90%;
+width:100%;
 height: 120px;
 margin-bottom: 41px;
 }
@@ -350,7 +350,7 @@ h3{
 @media only screen and (max-width: 650px)
 {
 	.search-bar {
-		width:290px;
+		width:250px;
 	}
 	.sub-title{
 		margin-top: 200px;
