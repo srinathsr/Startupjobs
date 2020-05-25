@@ -343,14 +343,14 @@ h3{
 @media only screen and (max-width: 800px)
 {
 	.search-bar {
-		width:600px;
+		width:400px;
 	}
 }
 
 @media only screen and (max-width: 650px)
 {
 	.search-bar {
-		width:295px;
+		width:300px;
 	}
 	.sub-title{
 		margin-top: 200px;
