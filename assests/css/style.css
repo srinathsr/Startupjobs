@@ -350,7 +350,7 @@ h3{
 @media only screen and (max-width: 650px)
 {
 	.search-bar {
-		width:250px;
+		width:500px;
 	}
 	.sub-title{
 		margin-top: 200px;
