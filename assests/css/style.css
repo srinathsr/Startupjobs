@@ -155,7 +155,7 @@ i.st,.sr,.sp,.ss,.si,.se,.su,.sw,.sl{
 	background-color: #ef5350;
 }
 .grid-item.centered{
-	justify-content: center;
+	justify-content: left;
 }
 .wrap-grid{
 	display: flex;
