@@ -351,6 +351,9 @@ h3{
 	.row{
 		width:100%;
 	}
+	.grid-item{
+	width:100%;
+	}
 	.sub-title{
 		margin-top: 200px;
 	}
